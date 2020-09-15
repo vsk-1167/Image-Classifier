@@ -2,7 +2,7 @@
   "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vsk-1167/image-classifier",
+  "homepage": "https://vsk-1167.github.io/image-classifier",
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^1.7.4",
